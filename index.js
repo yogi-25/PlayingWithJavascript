@@ -1,4 +1,4 @@
-let num=6;
+var num=101;
 function getName(num)
 {
     return num;
