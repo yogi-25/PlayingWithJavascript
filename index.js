@@ -8,9 +8,9 @@
 
 function swapper()
 {
-    alert("helloooo")
+    alert("helloooo");
 }
 var el = document.getElementById('overlayBtn');
 if(el){
-  el.addEventListener('click', swapper);
+  el.addEventListener('click', swapper,true);
 }
