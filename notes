@@ -1,0 +1,7 @@
+js engine is not a machine
+code->parsing->compilation->execution
+parsing->code is converted into tokens  (syntax parser)-take the code and convert it into ast (abstact syntax tree)
+compilation - JIT 
+JS 
+interpreter- 
+compiler- 0
