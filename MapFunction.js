@@ -13,4 +13,3 @@ function arr1(x)
 {
     return x.toString(2)
 }
-const op = 
