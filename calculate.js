@@ -1,7 +1,7 @@
 //How to take input from user
 const prompt = require("prompt-sync")();
 let a = prompt("enter a number: ")
-console.log(a)
+console.log(a);
 function add()
 {
     console.log("Addition of two number is ")
