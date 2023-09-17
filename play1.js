@@ -28,36 +28,31 @@
 // console.log("Helloooo")
 //Diffrence between foreach and map
 
-const arr = [1,2,3,4,5];
-//const output = arr.map((x)=> console.log(x));
+// const arr = [1,2,3,4,5];
+// //const output = arr.map((x)=> console.log(x));
 
 
-function myFunc(number)
-{
-    return number*3;
-}
-console.log(arr.map(myFunc)) //we can add filter method after myFunc
+// function myFunc(number)
+// {
+//     return number*3;
+// }
+// console.log(arr.map(myFunc)) //we can add filter method after myFunc
 
 
-//vs forEach()
-const foreachres = arr.forEach((x)=>
-{
-    return x*2;
-});
-console.log(foreachres)
+// //vs forEach()
+// const foreachres = arr.forEach((x)=>
+// {
+//     return x*2;
+// });
+// console.log(foreachres)
 
 
 //null and undefined diff
 
 //null is actual value type is object
 //undefined is var is yet to initilized ,not defined
-console.log(null==undefined)//true
-console.log(null===undefined)//false 
-
-
-
-
-
+// console.log(null==undefined)//true
+// console.log(null===undefined)//fal
 
 
 
